@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>edbffb70-69ed-4672-99d0-9f815bc402e4-Sinkhole.jpg</filename>
+	<path>D:\kivy_venv\train\images\edbffb70-69ed-4672-99d0-9f815bc402e4-Sinkhole.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>534</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roadCrash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>226</ymin>
+			<xmax>211</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

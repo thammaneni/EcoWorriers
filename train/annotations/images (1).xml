@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (1).jpg</filename>
+	<path>D:\kivy_venv\train\images\images (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roadCrash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>78</ymin>
+			<xmax>261</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>roadCrash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>96</ymin>
+			<xmax>272</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>
